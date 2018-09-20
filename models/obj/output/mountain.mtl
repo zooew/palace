@@ -1,0 +1,152 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:16.05.2017 10:29:30
+
+newmtl 01___DefDSAFault
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka tietu5__15_Gradient_Ramp.jpg
+	map_Kd tietu5__15_Gradient_Ramp.jpg
+
+newmtl Material__30
+	Ns 40.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.50 0.50 0.50
+	Kd 0.50 0.50 0.50
+	Ks 1.18 1.18 1.18
+	Ke 0.15 0.15 0.15
+	map_Ka tietu5__4_Falloff.jpg
+	map_Kd tietu5__4_Falloff.jpg
+
+newmtl Material__177
+	Ns 26.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.91 0.91 0.91
+	Kd 0.91 0.91 0.91
+	Ks 0.53 0.53 0.53
+	Ke 0.00 0.00 0.00
+	map_Ka tietu5__9_Gradient_Ramp.jpg
+	map_Kd tietu5__9_Gradient_Ramp.jpg
+
+newmtl Material_dsaf_177
+	Ns 0.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.91 0.91 0.91
+	Kd 0.91 0.91 0.91
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka tietu5__9_Gradient_Ramp.jpg
+	map_Kd tietu5__9_Gradient_Ramp.jpg
+
+newmtl 14___Dedsaffault
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.79 0.82 0.81
+	Kd 0.79 0.82 0.81
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+
+newmtl 15___De14fault
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.95 0.91 0.84
+	Kd 0.95 0.91 0.84
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+
+newmtl Materidsaal__177
+	Ns 1.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.91 0.91 0.91
+	Kd 0.91 0.91 0.91
+	Ks 0.12 0.12 0.12
+	Ke 0.00 0.00 0.00
+	map_Ka tietu5__9_Gradient_Ramp.jpg
+	map_Kd tietu5__9_Gradient_Ramp.jpg
+
+newmtl Material__27
+	Ns 26.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.91 0.91 0.91
+	Kd 0.91 0.91 0.91
+	Ks 0.53 0.53 0.53
+	Ke 0.00 0.00 0.00
+	map_Ka tietu5__9_Gradient_Ramp.jpg
+	map_Kd tietu5__9_Gradient_Ramp.jpg
+
+newmtl Material_daf_177
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.91 0.91 0.91
+	Kd 0.91 0.91 0.91
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka tietu5__9_Gradient_Ramp.jpg
+	map_Kd tietu5__9_Gradient_Ramp.jpg
+
+newmtl Material__33
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.91 0.91 0.91
+	Kd 0.91 0.91 0.91
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka tietu5__9_Gradient_Ramp.jpg
+	map_Kd tietu5__9_Gradient_Ramp.jpg
+
+newmtl Material__31
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.91 0.91 0.91
+	Kd 0.91 0.91 0.91
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka tietu5__9_Gradient_Ramp.jpg
+	map_Kd tietu5__9_Gradient_Ramp.jpg

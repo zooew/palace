@@ -1,0 +1,30 @@
+#
+# Wavefront material file
+# Converted by Meshlab Group
+#
+
+newmtl material_0
+Ka 0.200000 0.200000 0.200000
+Kd 0.588235 0.588235 0.588235
+Ks 1.000000 1.000000 1.000000
+Tr 0.000000
+illum 2
+Ns 0.000000
+map_Kd tietu3__2_Gradient_Ramp.jpg
+
+newmtl material_1
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 0.768627 0.168627
+Ks 1.000000 1.000000 1.000000
+Tr 0.000000
+illum 2
+Ns 0.000000
+
+newmtl material_2
+Ka 0.200000 0.200000 0.200000
+Kd 0.517647 0.247059 0.227451
+Ks 1.000000 1.000000 1.000000
+Tr 0.000000
+illum 2
+Ns 0.000000
+
