@@ -643,7 +643,7 @@ function onDocumentDbClick(event){
     }
 }
 
-//setInterval(function(){ checkTriggers();}, 3000);
+setInterval(function(){ checkTriggers();}, 3000);
 function checkTriggers(){
     var nowseconds = new Date().getSeconds();
     if(nowseconds % 30 < 15) {
