@@ -576,6 +576,7 @@ function onDocumentTouchEnd( event )
     {
         var clickaudio = document.getElementById('clickaudio');
         clickaudio.play();
+        startWindBlow();
         startWait();
     }
     intersects = raycaster.intersectObject(palacesArray["tushu"], true)
@@ -583,6 +584,7 @@ function onDocumentTouchEnd( event )
     {
         var clickaudio = document.getElementById('clickaudio');
         clickaudio.play();
+        startWindBlow();
         startWait();
     }
     intersects = raycaster.intersectObject(palacesArray["wenchuang"], true)
@@ -590,6 +592,7 @@ function onDocumentTouchEnd( event )
     {
         var clickaudio = document.getElementById('clickaudio');
         clickaudio.play();
+        startWindBlow();
         startWait();
     }
     intersects = raycaster.intersectObject(palacesArray["xuanjiao"], true)
@@ -597,6 +600,7 @@ function onDocumentTouchEnd( event )
     {
         var clickaudio = document.getElementById('clickaudio');
         clickaudio.play();
+        startWindBlow();
         startWait();
     }
     intersects = raycaster.intersectObject(palacesArray["xueshu"], true)
@@ -604,6 +608,7 @@ function onDocumentTouchEnd( event )
     {
         var clickaudio = document.getElementById('clickaudio');
         clickaudio.play();
+        startWindBlow();
         startWait();
     }
     intersects = raycaster.intersectObject(palacesArray["youxi"], true)
@@ -611,6 +616,7 @@ function onDocumentTouchEnd( event )
     {
         var clickaudio = document.getElementById('clickaudio');
         clickaudio.play();
+        startWindBlow();
         startWait();
     }
     intersects = raycaster.intersectObject(palacesArray["zhanlan"], true)
@@ -643,24 +649,25 @@ function onDocumentDbClick(event){
     }
 }
 
-setInterval(function(){ checkTriggers();}, 3000);
+setInterval(function(){ checkTriggers();}, 10000);
 function checkTriggers(){
-    var nowseconds = new Date().getSeconds();
-    if(nowseconds % 30 < 15) {
-        DayOrNight = false;
-    }
-    else
-    {
-        DayOrNight = true;
-        //DayOrNight = false;
-    }
+    // var nowseconds = new Date().getSeconds();
+    // if(nowseconds % 30 < 15) {
+    //     DayOrNight = false;
+    // }
+    // else
+    // {
+    //     DayOrNight = true;
+    //     //DayOrNight = false;
+    // }
 
+    DayOrNight != DayOrNight;
     updateUI();
 
 /*
      var nowHour = new Date().getHours();
      console.log(nowHour);
-     if(nowtime >= 7 && nowtime < 19)
+     if(nowHour >= 7 && nowHour < 19)
     {
         DayOrNight = true;
      }
@@ -697,6 +704,8 @@ battery.then(function(battery) {
             updateUI();
             setTimeout("stopThunder()",500);//12 frames
         }
+
+        startthunder();
     });
 });
 
